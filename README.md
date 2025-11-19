@@ -36,7 +36,7 @@ To activate a virtualenv:
 ```
 . /path/to/venv/bin/activate
 ```
-More thorough tutorial on virtualenvs and options can be found [here](https://virtualenv.pypa.io/en/stable/) 
+More thorough tutorial on virtualenvs and options can be found [here](https://virtualenv.pypa.io/en/stable/) .
 
 
 ## Tensorflow versions
